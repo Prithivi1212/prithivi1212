@@ -70,8 +70,8 @@ All data is maintained in memory during program execution. The records are reset
 
 8. Student Details
 
-- Name: Neelakandan M
-- Roll Number:
+- Name: SENBAGAPRUTHVIRAJA R
+- Roll Number:717825I253
 
 9. GitHub Repository
 
